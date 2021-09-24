@@ -1,6 +1,6 @@
- # Emoji INterpreter Application 🚀
+ # Emoji Interpreter Application 🚀
  
- ## This chat room is created using React Ja
+ ## This chat room is created using React Js
  
  ### Try it out: 🌟   [Live demo](https://harsh-chat-room.herokuapp.com)
  
