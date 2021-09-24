@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+.App {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+body {
+  width: 90vw;
+  margin: 0 auto;
+  color: white;
+  background-color: black;
+}
+
+h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
+input {
+  padding: 15px 20px;
+  border: 4px solid white;
+  background-color: black;
+}
+
+.meaning {
+  font-size: 1.5rem;
+  padding: 1rem;
+  font-weight: bolder;
+}
+
+input::placeholder {
+  color: white;
+  margin-bottom: 3rem;
+}
+
+span {
+  font-size: 2.5rem;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.emoji-output {
+  font-size: 2rem;
+}
